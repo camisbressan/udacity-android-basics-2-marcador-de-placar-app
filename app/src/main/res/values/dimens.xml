@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="label_time">16sp</dimen>
+    <dimen name="label_score">40sp</dimen>
+    <dimen name="label_button">12sp</dimen>
+    <dimen name="margin_bottom_button">8dp</dimen>
+    <dimen name="margin_left_button">30dp</dimen>
+    <dimen name="margin_right_button">30dp</dimen>
+</resources>

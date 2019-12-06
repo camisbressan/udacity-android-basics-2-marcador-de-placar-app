@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Marcardor De Placar - Truco!</string>
+    <string name="time_1">Time A</string>
+    <string name="time_2">Time B</string>
+    <string name="score">0</string>
+    <string name="um_ponto">+1 Ponto</string>
+    <string name="tres_pontos">+3 Pontos</string>
+    <string name="seis_pontos">+6 Pontos</string>
+    <string name="nove_pontos">+9 Pontos</string>
+    <string name="novo_jogo">Novo Jogo!</string>
+</resources>
